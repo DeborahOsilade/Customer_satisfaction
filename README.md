@@ -4,5 +4,5 @@ In aviation, an airline departure or arrival is considered to be on time when a 
 
 ### This project,
 
-1. Used predictive modelling to define parameters that play important roles in swaying a passenger feedback towards ‘satisfied’.
-2. Created a deployment strategy on how to solve it
+1. Used different predictive models to define parameters that play important roles in swaying a passenger feedback towards ‘satisfied’.
+2. Documented this solution from Data analytics to machine learning models
