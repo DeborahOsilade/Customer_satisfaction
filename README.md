@@ -1,8 +1,11 @@
-# How a Customer Swings towards product satifaction
+# Predicting Passenger Satisfaction: How On-Time Performance Shapes Airline Customer Loyalty
 
-In aviation, an airline departure or arrival is considered to be on time when a departure or arrival that occurs within 15 minutes of the scheduled time. (OTP) Ontime performance is a valuable metric for airlines and a metric that can affect customer loyalty and satisfaction. 
+Story:
+Punctuality is one of the most critical factors influencing airline customer satisfaction. In aviation, a flight is considered on time if it departs or arrives within 15 minutes of its scheduled time. Airlines closely track On-Time Performance (OTP), but how much does it actually impact passenger satisfaction and loyalty?
 
-### This project,
+This project explores how different factors—especially OTP—shape customer feedback and satisfaction levels. Using data analytics and machine learning, I:
 
-1. Used different predictive models to define parameters that play important roles in swaying a passenger feedback towards ‘satisfied’.
-2. Documented this solution from Data analytics to machine learning models
+Identified key factors that influence whether a passenger leaves a ‘satisfied’ or ‘dissatisfied’ review.
+Applied predictive models to determine the strongest drivers of positive feedback.
+Documented the entire process, from data analysis to machine learning, providing actionable insights for airlines to improve customer experience.
+The final insights offer a data-driven approach for airlines to enhance operational efficiency and customer retention, ensuring passengers have more satisfying travel experiences.
